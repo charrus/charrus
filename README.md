@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charrus
-- 👀 I’m interested in self hosted containerised automation, digital broadcasting, to name a few.
+- 👀 I’m interested in self hosted containerised automation, digital broadcasting, 4g eth stiks to name a few.
 
 <!---
 charrus/charrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
